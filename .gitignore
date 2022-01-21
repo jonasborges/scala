@@ -37,11 +37,11 @@
 /qbin
 
 # sbt's target directories
-/target/
-/project/**/target/
+target/
+project/**/target/
 /test/macro-annot/target/
-/test/files/target/
-/test/target/
+test/files/target/
+test/target/
 /build-sbt/
 local.sbt
 jitwatch.out
